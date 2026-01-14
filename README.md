@@ -72,6 +72,11 @@ The roadmap is divided into key phases for development and growth:
 - **Phase 3: Monetization and Partnerships (2027)**: Introduce premium features, subscriptions, and partnerships with DeFi projects. Grow to 25,000 users with 20% premium conversion.
 - **Phase 4: Scaling and Innovation (2027+)**: Expand to multi-chain, add AI features, develop mobile app, and integrate exchanges. Target 100,000+ users and establish as a leading tool.
 
+
 Ongoing: User feedback, security audits, and sustainability focus.
 
 ## Images
+<img width="938" height="539" alt="1" src="https://github.com/user-attachments/assets/2da5a825-0b75-4d8c-abe8-6d8cb6bde5f9" />
+<img width="667" height="297" alt="2" src="https://github.com/user-attachments/assets/9efa93cf-5c34-48ed-8410-aa93a54f5975" />
+<img width="661" height="312" alt="3" src="https://github.com/user-attachments/assets/0e183610-11cd-4af1-82d1-8fe0b628d079" />
+
